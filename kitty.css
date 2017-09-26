@@ -14,6 +14,9 @@ body{
 	content:url(kitten-large.png);
 	
 		}
+	body{
+		  background-color: mediumorchid;
+	  }
 }
 	
 @media screen and (max-width: 999px) {
@@ -23,6 +26,9 @@ body{
 	content:url(kitten-medium.png);
 	
 		}
+	body{
+		  background-color: mediumturquoise;
+	  }
 }
 
 @media screen and (max-width: 600px) {
@@ -32,6 +38,9 @@ body{
 	content:url(kitten-small.png);
 	
 		}
+	body{
+		  background-color: plum;
+	  }
 }
 
 @media screen and (max-width: 400px) {
@@ -41,4 +50,7 @@ body{
 	content:url(kittyloaf.gif);
 	visibility:visible;
 		}
+	body{
+		  background-color: palevioletred;
+	  }
 }
